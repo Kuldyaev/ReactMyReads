@@ -1,7 +1,7 @@
 ## MyReads: A Book Traking App
 ## Project of UDACITY React Nanodegree Program
 
-UDACITY React Nanodegree Program [link]:  (https://www.udacity.com/course/react-nanodegree--nd019).
+UDACITY React Nanodegree Program link:  https://www.udacity.com/course/react-nanodegree--nd019.
 
 
 
