@@ -11,7 +11,9 @@ This is a book tracking app allows you to select and categorize books you have r
 
 2. Install packages for React
     
-    $sudo
+    sudo apt-get install curl
+    
+    
 
 
 
