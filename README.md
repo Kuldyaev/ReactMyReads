@@ -36,11 +36,11 @@ This is a book tracking app allows you to select and categorize books you have r
 
 6. From directory [name of project] we start json-server
 
-            $/[name of project]:   json-server --watch public/books.json
+            $/[name of project]:  json-server --watch public/books.json
 
 7. In the project directory, you can run:
 
-            $/[name of project]:npm start
+            $/[name of project]:  npm start
 
 8. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 May be you need check [http://localhost:3001](http://localhost:3001), because port 3000 used by json-server
