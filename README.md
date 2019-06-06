@@ -1,7 +1,7 @@
 
 
 
-![demo](https://github.com/Kuldyaev/memorygame/blob/master/img/demo.gif) 
+![demo](https://github.com/Kuldyaev/ReactMyReads/blob/master/src/icon/ft.JPG) 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
