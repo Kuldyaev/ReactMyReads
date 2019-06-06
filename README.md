@@ -1,7 +1,16 @@
-## MyReads: A Book Traking App
-# Project of UDACITY React Nanodegree Program
+# MyReads: A Book Traking App
+## Project of UDACITY React Nanodegree Program
 
 UDACITY React Nanodegree Program link:  https://www.udacity.com/course/react-nanodegree--nd019.
+
+This is a book tracking app allows you to select and categorize books you have read, are currently reading, or want to read. 
+
+## Installing
+
+1. Create Viirtual Mashine with Ubuntu 16
+
+2. Install packages for React
+
 
 
 
