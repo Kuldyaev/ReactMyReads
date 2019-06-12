@@ -52,8 +52,8 @@ button.book-remove{
 	border: none;
 	cursor: pointer;
 	border-radius: 50%;
-	width: 10px;
-	height: 10px;
+	width: 24px;
+	height: 24px;
 	background-color: grey;
 	background-image: url('./icon/cancel-24.png');
 	background-size: 100% 100%;
@@ -118,9 +118,10 @@ button.book-remove{
 	margin-top: 5px;
 }
 .book-image{
-	width: 150px;
+	width: 130px;
 	height: 140px;
 	margin-right: 0px;
+	margin-left: 15px;
 	background-repeat: no-repeat;
 	background-size: contain;
 	flex-shrink: 0;
@@ -162,6 +163,7 @@ button.book-remove{
 .titlename {
     height: 100%;
 	width: 70%;
+	margin-left: 10px;
 }
 .bookscounter {
     height: 100%;
