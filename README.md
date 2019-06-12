@@ -20,7 +20,6 @@ This is a book tracking app allows you to select and categorize books you have r
               sudo npm install --save prop-types
               sudo npm install --save escape-string-regexp sort-by
               sudo npm install --save react-router-dom
-              sudo npm install --save form-serialize
               sudo npm install -global json-server
               
  3. Create new react app
