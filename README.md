@@ -7,19 +7,25 @@ This is a book tracking app allows you to select and categorize books you have r
 
 ## Installing
 1.1. Create Virtual Mashine
+
 1.2. Install nodejs, git and json-server
+
               sudo apt-get install curl
               curl -sL https://deb.nodesourse.com/setup_8.x | sudo -E bash-
               sudo apt-get install -y nodejs
               sudo apt-get install -y build-essential
               sudo apt-get install git
               sudo npm install -global json-server
+              
 1.3. Clone information from this repositorie
 
              git clone https://github.com/Kuldyaev/ReactMyReads ['name new directorie']
+             
 1.4. Install packages
+
             cd ['name new directorie']
             npm install
+            
 1.5. From directory [name of project] we start json-server
 
             $/[name of project]:  json-server --watch public/books.json
